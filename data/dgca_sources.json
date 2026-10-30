@@ -1,0 +1,82 @@
+[
+  {
+    "source_id": "SRC_DGCA_PORTAL",
+    "name": "DGCA Official Portal",
+    "url": "https://www.dgca.gov.in/",
+    "source_type": "official_regulator",
+    "publisher": "Directorate General of Civil Aviation, Government of India",
+    "description": "Apex regulatory body for civil aviation in India, governing licensing, certification, and oversight of FTOs.",
+    "verification_status": "verified",
+    "retrieval_date": "2026-10-26"
+  },
+  {
+    "source_id": "SRC_MOCA_FTO_8479",
+    "name": "MoCA Flying Training Organisations & DGCA Processes",
+    "url": "https://www.civilaviation.gov.in/en/node/8479",
+    "source_type": "official_ministry",
+    "publisher": "Ministry of Civil Aviation, Government of India",
+    "description": "Policy framework, FTO allocation of AAI airports, and regulatory standards.",
+    "verification_status": "verified",
+    "retrieval_date": "2026-10-26"
+  },
+  {
+    "source_id": "SRC_MOCA_FTO_4635",
+    "name": "MoCA Approved Flying Training Organisations Directory",
+    "url": "https://www.civilaviation.gov.in/node/4635",
+    "source_type": "official_ministry",
+    "publisher": "Ministry of Civil Aviation, Government of India",
+    "description": "List of operational FTOs across Indian states with base and runway allocations.",
+    "verification_status": "verified",
+    "retrieval_date": "2026-10-26"
+  },
+  {
+    "source_id": "SRC_DGCA_DIGIGOV",
+    "name": "DGCA eGCA / DigiGov Portal",
+    "url": "https://www.dgca.gov.in/digigov-portal/",
+    "source_type": "official_portal",
+    "publisher": "DGCA DigiGov System",
+    "description": "Online service portal for flight crew licensing, logbook approvals, and institutional ranking displays.",
+    "verification_status": "verified",
+    "retrieval_date": "2026-10-26"
+  },
+  {
+    "source_id": "SRC_PIB_FTO_2026",
+    "name": "PIB Press Release - DGCA Flying Training Ranking Framework",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2255276&lang=1&reg=3",
+    "source_type": "official_press_release",
+    "publisher": "Press Information Bureau, Government of India",
+    "description": "Official announcement of FTO performance evaluation matrix, categorization criteria, and capacity assessment.",
+    "verification_status": "verified",
+    "retrieval_date": "2026-10-26"
+  },
+  {
+    "source_id": "SRC_DGCA_PUBLIC_NOTICE_2025",
+    "name": "DGCA Public Notice on FTO Ranking Framework (30 Sept 2025)",
+    "url": "https://www.dgca.gov.in/digigov-portal/Upload?attachId=OXOBBPO50KNsVklXF1f0cQ%3D%3D&baseLocale=en_US&flag=iframeAttachView",
+    "source_type": "official_notice",
+    "publisher": "DGCA Directorate of Flying Training",
+    "description": "Methodology notice detailing safety audits, fleet availability, CFI ratios, and flying hour benchmarks for FTO ranking.",
+    "verification_status": "verified",
+    "retrieval_date": "2026-10-26"
+  },
+  {
+    "source_id": "SRC_DGCA_CAR_PORTAL",
+    "name": "DGCA Civil Aviation Requirements (CAR) Regulations",
+    "url": "https://www.dgca.gov.in/digigov-portal/?page=aviation-regulations",
+    "source_type": "official_regulation",
+    "publisher": "DGCA Regulatory Division",
+    "description": "CAR Section 7, Series D Part I - Approval of Flying Training Organisations and flight syllabus standards.",
+    "verification_status": "verified",
+    "retrieval_date": "2026-10-26"
+  },
+  {
+    "source_id": "SRC_DGCA_DASHBOARDS",
+    "name": "DGCA Digigov Official Oversight Dashboard",
+    "url": "https://www.dgca.gov.in/digigov-portal/webHP?actionVal=loadDashboard&requestType=ApplicationRH&screenId=11000188",
+    "source_type": "official_dashboard",
+    "publisher": "DGCA eGCA Analytics",
+    "description": "Live statistical metrics on pilot licenses issued, operational aircraft, and flight test outcomes.",
+    "verification_status": "verified",
+    "retrieval_date": "2026-10-26"
+  }
+]
